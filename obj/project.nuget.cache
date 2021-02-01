@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+pP6Dkj5+voXeqbKeH7w4IxlPZr9gNOfKcXRAWmE9XN0jmykKvcenLKEWDOMKxM6uuQwfGsBGVrp1v44QSm3Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\15636\\Desktop\\CIS174\\FirstResponsiveWebAppWoodburn\\FirstResponsiveWebAppWoodburn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\15636\\.nuget\\packages\\bootstrap\\4.6.0\\bootstrap.4.6.0.nupkg.sha512",
+    "C:\\Users\\15636\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
+    "C:\\Users\\15636\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
